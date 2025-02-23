@@ -11,7 +11,7 @@
 
 This analysis highlights the top 10 countries with the most Summer Olympic medals. The leading nations have consistently performed well across various disciplines, securing numerous gold, silver & bronze medals. The data reflects historical success and ongoing competitiveness in the Summer Olympics.
 
-![bar plot](https:/
+![bar plot]
 
 ### Data Sources
 
